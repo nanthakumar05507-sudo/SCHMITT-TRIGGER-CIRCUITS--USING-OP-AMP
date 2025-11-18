@@ -20,7 +20,7 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 ![WhatsApp Image 2025-11-18 at 10 58 50_5767f2f5](https://github.com/user-attachments/assets/ddef7edf-4733-4e65-a348-abe1077d9ef4)
 
 ## GRAPH:
-![WhatsApp Image 2025-11-18 at 10 58 49_4420c334](https://github.com/user-attachments/assets/ded5b300-46ea-4f37-953b-6224a8a50635)
+[WhatsApp Image 2025-11-18 at 10 58 49_4420c334](https://github.com/user-attachments/assets/ded5b300-46ea-4f37-953b-6224a8a50635)
 
 ## DESIGN:
 1. Select the desire value of Vut & Vlt with same magnitude & opposite polarity.
